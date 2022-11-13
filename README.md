@@ -1,0 +1,1 @@
+A Deep Learning Method for Detecting synthetic contemporary cyber Attack behaviors convolutional neural network on the UNSW-NB15 dataset. UNSW-NB15 is a network intrusion dataset. It contains nine different attacks, including DoS, worms, Backdoors, and Fuzzers. In addition, the dataset comprises raw network packets.
